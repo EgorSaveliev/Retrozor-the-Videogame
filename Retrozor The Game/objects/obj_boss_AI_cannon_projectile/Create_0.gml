@@ -1,0 +1,1 @@
+var_boss_AI_cannon_projectile_timeToAttack = 20

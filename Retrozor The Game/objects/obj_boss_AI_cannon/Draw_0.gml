@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_boss_AI_cannon,all,x,y,1,1,0,var_boss_AU_cannon_color,1)

@@ -1,0 +1,1 @@
+room_goto(test_room)

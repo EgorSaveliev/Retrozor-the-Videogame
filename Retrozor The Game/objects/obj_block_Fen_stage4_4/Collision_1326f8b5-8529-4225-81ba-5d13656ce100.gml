@@ -1,0 +1,1 @@
+obj_player.var_player_hp = obj_player.var_player_hp -999

@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_EE_RocketNeFen,all,x,y,3,3,0,c_white,1)

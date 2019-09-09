@@ -1,0 +1,7 @@
+	instance_create_depth(x,y,1,obj_boss_AI_cannon_destroyed)
+		instance_create_depth(x+72,y+72,0,obj_destroy_animation)
+		instance_create_depth(x+120,y+120,0,obj_destroy_animation)
+		instance_create_depth(x+25,y+120,0,obj_destroy_animation)
+		instance_create_depth(x+25,y+25,0,obj_destroy_animation)
+		instance_create_depth(x+120,y+25,0,obj_destroy_animation)
+		audio_play_sound(snd_explosion_cannon,1,0)

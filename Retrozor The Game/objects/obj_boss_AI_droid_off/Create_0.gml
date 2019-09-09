@@ -1,0 +1,1 @@
+var_boss_AI_droid_off_timeToStart = 100

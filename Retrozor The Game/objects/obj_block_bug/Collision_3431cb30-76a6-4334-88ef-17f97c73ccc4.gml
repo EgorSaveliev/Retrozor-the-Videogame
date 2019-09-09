@@ -1,0 +1,1 @@
+obj_player.var_player_color = "c_green"

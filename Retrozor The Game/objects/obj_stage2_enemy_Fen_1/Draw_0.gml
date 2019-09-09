@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_fen_stage02_enemy01_stand,all,x,y,var_enemy_rot,1,0,asset_get_index(var_enemy_color ),1)

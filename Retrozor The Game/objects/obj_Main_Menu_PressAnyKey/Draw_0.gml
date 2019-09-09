@@ -1,0 +1,1 @@
+draw_text_color(x,y,"Нажмите любую кнопку",c_white,c_white,c_white,c_white,var_alpha)

@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_boss_speder_projectile1,all,x,y,var_boss_spider_projectile1,1,0,c_white,1)

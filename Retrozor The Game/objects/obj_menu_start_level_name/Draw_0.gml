@@ -1,0 +1,1 @@
+draw_text(x,y,var_level_name_text)

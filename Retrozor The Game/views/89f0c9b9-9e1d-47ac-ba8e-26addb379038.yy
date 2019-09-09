@@ -1,0 +1,33 @@
+{
+    "id": "89f0c9b9-9e1d-47ac-ba8e-26addb379038",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "89f0c9b9-9e1d-47ac-ba8e-26addb379038",
+    "children": [
+        "f582302f-57eb-4f57-9ce8-5c04400b6846",
+        "f4bfbe4a-5e91-4bd3-b155-932455e88c5e",
+        "e787fdc4-dba4-413f-bd46-1371b66473dc",
+        "bfcaefa2-3c5b-48d3-987e-3a30f28315b1",
+        "7ad74c25-8609-4b0a-aa97-e83ff143b209",
+        "fa7f6992-62e0-40cb-9954-14f646e46c27",
+        "6d6068e7-c78b-4687-a402-5e55c10ca789",
+        "eb3e2c2b-3816-4e4f-a54a-1f7f18e00034",
+        "f4726425-f20b-485b-96a4-e0eebee50296",
+        "6be892e5-fb2f-4077-9b5b-a838d32fcd80",
+        "6762304f-d7ce-4225-9a18-61d3b7365e82",
+        "78e53c4b-e76a-42ef-9aba-cce851d50cf4",
+        "76ba36a1-c496-4695-b16d-85d3a00ff733",
+        "444843f1-48d8-4365-a2ae-c0117da93d5c",
+        "1728b012-d215-4488-b619-32c297b532e3",
+        "bdd6ddf5-5622-41b5-a7d2-6670802c6615",
+        "d8ce2bca-61ad-469c-9d53-298ad5d8761f",
+        "5851b363-04d2-4f3b-bcbf-e0c332ae4213",
+        "d6f915f1-8aff-4cb3-9a3b-2ad114233304",
+        "c5d10399-20b7-4af0-9eb8-685a161e8c46",
+        "be6bca81-ec41-456d-9f95-a5b4902306f9"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Fen stage 3",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

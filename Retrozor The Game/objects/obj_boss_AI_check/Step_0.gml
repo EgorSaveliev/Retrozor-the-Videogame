@@ -1,0 +1,1 @@
+var_boss_AI_check = 0

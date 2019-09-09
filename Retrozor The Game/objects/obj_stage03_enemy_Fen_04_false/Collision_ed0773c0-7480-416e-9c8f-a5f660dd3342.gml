@@ -1,0 +1,1 @@
+other.var_enemy_InVeiw = 1

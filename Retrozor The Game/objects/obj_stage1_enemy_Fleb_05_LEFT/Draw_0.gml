@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_fleb_stage01_enemy05_walk,all,x,y,-1,1,0,c_white,1)

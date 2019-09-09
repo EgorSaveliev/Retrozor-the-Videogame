@@ -1,0 +1,10 @@
+var_enemy_damage = 15
+var_enemy_maxhp = 50
+var_enemy_hp = var_enemy_maxhp
+var_enemy_mode = "right"
+var_enemy_plyayerX = 0
+var_enemy_plyayerY = 0
+var_enemy_rot = 1
+var_enemy_color = c_white
+var_enemy_InVeiw = 0
+var_enemy_speed = 3

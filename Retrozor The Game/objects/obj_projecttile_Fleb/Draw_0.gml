@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_player_projectile_Fleb,obj_player.var_player_animation_change,x,y,obj_player.var_player_rotation,1,0,c_white,1)

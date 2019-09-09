@@ -1,0 +1,1 @@
+draw_text(x,y,string(var_game_version))

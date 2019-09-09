@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_boss_AI_Droid,all,x,y,var_boss_AI_droid_rot,1,0,var_boss_AI_droid_color,1)

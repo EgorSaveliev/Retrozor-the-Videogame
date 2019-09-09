@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_boss_AI_stand,all,x,y,1,1,0,var_boss_AI_color,1)

@@ -1,0 +1,2 @@
+var_enemy_TimeToAttack = 80
+var_enemy_TimeAttack = var_enemy_TimeToAttack
